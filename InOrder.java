@@ -11,6 +11,6 @@ public class InOrder {
 			System.out.print(prev + " ");
 			random = (int) (10 * Math.random());
 		} while (random >= prev);
-		System.out.println();
+	
 	}
 }
